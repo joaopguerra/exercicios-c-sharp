@@ -1,0 +1,7 @@
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_ContaBancaria\Ex_ContaBancaria\obj\Debug\Ex_ContaBancaria.csprojAssemblyReference.cache
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_ContaBancaria\Ex_ContaBancaria\obj\Debug\Ex_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_ContaBancaria\Ex_ContaBancaria\bin\Debug\Ex_ContaBancaria.exe.config
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_ContaBancaria\Ex_ContaBancaria\bin\Debug\Ex_ContaBancaria.exe
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_ContaBancaria\Ex_ContaBancaria\bin\Debug\Ex_ContaBancaria.pdb
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_ContaBancaria\Ex_ContaBancaria\obj\Debug\Ex_ContaBancaria.exe
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_ContaBancaria\Ex_ContaBancaria\obj\Debug\Ex_ContaBancaria.pdb

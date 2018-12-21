@@ -1,0 +1,7 @@
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_Salarios\Ex_Salarios\bin\Debug\Ex_Salarios.exe.config
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_Salarios\Ex_Salarios\bin\Debug\Ex_Salarios.exe
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_Salarios\Ex_Salarios\bin\Debug\Ex_Salarios.pdb
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_Salarios\Ex_Salarios\obj\Debug\Ex_Salarios.csprojAssemblyReference.cache
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_Salarios\Ex_Salarios\obj\Debug\Ex_Salarios.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_Salarios\Ex_Salarios\obj\Debug\Ex_Salarios.exe
+C:\Users\João\Documents\Programação\C#\Exercicios\Ex_Salarios\Ex_Salarios\obj\Debug\Ex_Salarios.pdb
